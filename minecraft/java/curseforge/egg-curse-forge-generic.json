@@ -7,7 +7,7 @@
     "exported_at": "2026-02-16T14:42:26+01:00",
     "name": "CurseForge Generic",
     "author": "contact@chromozone.dev",
-    "description": "A generic egg for a CurseForge modpack.\r\n\r\nMake sure you set a real and reasonable memory limit for the server, not 0\/unlimited",
+    "description": "A generic egg for a CurseForge modpack.\r\n\r\nMake sure you set a reasonable memory limit for the server, not 0\/unlimited",
     "features": [
         "eula",
         "java_version",
